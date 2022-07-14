@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/typesafe-domain-services-in-react-with-fp-ts-and-reader-task-either/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/typesafe-domain-services-in-react-with-fp-ts-and-reader-task-either/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
